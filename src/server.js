@@ -1,5 +1,6 @@
 import express from "express";
 import { join } from "path";
+import socketIO from "socket.io";
 
 const PORT = 4000;
 
