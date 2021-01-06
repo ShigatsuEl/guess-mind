@@ -105,3 +105,6 @@ dist
 
 #Yarn Lock
 yarn.lock
+
+#static
+static/
